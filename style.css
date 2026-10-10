@@ -65,3 +65,8 @@ article p { line-height: 1.5; }
   .row article { flex: 0 0 92%; }
   .row-five .item-b { order: -1; }
 }
+
+/* Row 6 - evenly space the five items */
+.row-six {
+    justify-content: space-evenly;
+}
